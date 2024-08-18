@@ -61,9 +61,6 @@ This project is a web application that detects cyberbullying in user comments. I
 - Input: "Go kill yourself, the world would be better without you."
 - Prediction: "other_cyber biullying"
 - 
-![Screenshot (25)](https://github.com/user-attachments/assets/9917df67-9f9b-474f-9e1d-5a6aa7c7e1b6)
-
-![Screenshot (26)](https://github.com/user-attachments/assets/bc704304-87e8-4401-a09b-ec093013f46f)
 
 ## License
 
