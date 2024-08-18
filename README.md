@@ -1,4 +1,3 @@
-
 # Cyberbullying Detection Using NLP
 
 This project is a web application that detects cyberbullying in user comments. It uses Natural Language Processing (NLP) techniques to classify comments into categories such as hate speech, insults, threats, and other harmful language. The model is trained on labeled text data to identify and flag inappropriate content.
